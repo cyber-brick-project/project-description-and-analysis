@@ -1,8 +1,8 @@
-# technology-analysis
-Document for technology analysis
+# project-description-and-analysis
+Document for Cyber Brick Project description and analysis. Technology details included.
 
 ## Branches
- - `master` - Description
+ - `master` - Repo description
  - `doc` - Documentation in LaTeX
 
 ## Check submodule's READMEs
